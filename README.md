@@ -1,0 +1,2 @@
+# studingRep
+ for selfstuding projects
